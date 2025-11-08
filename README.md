@@ -30,7 +30,9 @@ g++ main.cpp -o monitor
 ./monitor
 
 📊 Output Example
+
 CPU Usage: 1.31%
+
 Memory Usage: 62.5%
 ------------------------------------
 
