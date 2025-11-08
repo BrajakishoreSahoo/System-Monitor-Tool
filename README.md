@@ -7,18 +7,25 @@ This project was developed as part of the Capstone Project (Linux System Program
 ⚙️ Features
 
 ✅ Displays live CPU utilization percentage
+
 ✅ Shows current memory usage
+
 ✅ Counts and displays the total number of running processes
+
 ✅ Automatically refreshes every 3 seconds
 
 🧠 Technologies Used
 
 C++
+
 Linux (WSL 2 on Windows)
+
 /proc filesystem
 
 🚀 How to Run
+
 Open your Linux terminal (or WSL) and execute:
+
 g++ main.cpp -o monitor
 ./monitor
 
